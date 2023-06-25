@@ -1,7 +1,7 @@
 ## Gabriel Camargo - Developer
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camargo2019&count_private=true&show_icons=true&hide_title=true&theme=dark)  
+![camargo2019's Streak](https://github-readme-streak-stats.herokuapp.com/?user=camargo2019&theme=vue-dark&hide_border=false)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo2019&hide_progress=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![camargo2019's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo2019&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
